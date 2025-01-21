@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\john2\\source\\repos\\VetClinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\petdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:petdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\newpetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:newpetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\petdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:petdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:ianimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\newpetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:newpetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:indexform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|c:\\users\\john2\\source\\repos\\vetclinic\\indexform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37FEED0-1446-48B2-A685-051EB27BC3FC}|VetClinic.csproj|solutionrelative:indexform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PetDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\PetDetailsForm.cs",
+              "RelativeDocumentMoniker": "PetDetailsForm.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\PetDetailsForm.cs",
+              "RelativeToolTip": "PetDetailsForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:31:03.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:20:13.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\Cat.cs",
+              "RelativeDocumentMoniker": "Cat.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\Cat.cs",
+              "RelativeToolTip": "Cat.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:16:36.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\IAnimal.cs",
+              "RelativeDocumentMoniker": "IAnimal.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\IAnimal.cs",
+              "RelativeToolTip": "IAnimal.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:13:52.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\PetDetailsForm.cs",
+              "RelativeDocumentMoniker": "PetDetailsForm.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\PetDetailsForm.cs [Design]",
+              "RelativeToolTip": "PetDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:10:21.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndexForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\IndexForm.cs",
+              "RelativeDocumentMoniker": "IndexForm.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\IndexForm.cs [Design]",
+              "RelativeToolTip": "IndexForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:05:08.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewPetForm.cs",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\NewPetForm.cs",
+              "RelativeDocumentMoniker": "NewPetForm.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\NewPetForm.cs",
+              "RelativeToolTip": "NewPetForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwD4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:02:54.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewPetForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\NewPetForm.cs",
+              "RelativeDocumentMoniker": "NewPetForm.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\NewPetForm.cs [Design]",
+              "RelativeToolTip": "NewPetForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:01:54.849Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IndexForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\IndexForm.Designer.cs",
+              "RelativeDocumentMoniker": "IndexForm.Designer.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\IndexForm.Designer.cs",
+              "RelativeToolTip": "IndexForm.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAASwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:00:31.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IndexForm.cs",
+              "DocumentMoniker": "C:\\Users\\john2\\source\\repos\\VetClinic\\IndexForm.cs",
+              "RelativeDocumentMoniker": "IndexForm.cs",
+              "ToolTip": "C:\\Users\\john2\\source\\repos\\VetClinic\\IndexForm.cs",
+              "RelativeToolTip": "IndexForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:00:26.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
